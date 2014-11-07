@@ -1,3 +1,3 @@
 datasciencecoursera
 ===================
-Repository for the data science specialization.
+Repository of my projects for the data science specialization.
