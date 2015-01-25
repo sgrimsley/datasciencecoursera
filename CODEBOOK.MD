@@ -63,7 +63,7 @@ frequencyBodyAccelerationJerk.mean.Z | Mean of frequency of jerk signals for tim
 frequencyBodyGyro.mean.X | Mean of frequency for body gyroscope signals, X axis 
 frequencyBodyGyro.mean.Y | Mean of frequency for body gyroscope signals, Y axis 
 frequencyBodyGyro.mean.Z | Mean of frequency for body gyroscope signals, Z axis 
-frequencyBodyAccelerationMagnitude.mean | Mean of magnitude of the frequency of body acceleration 
+frequencyBodyAccelerationMagnitude.mean | Mean of magnitude of the frequency of three dimensional body acceleration 
 frequencyBodyAccelerationJerkMagnitude.mean | Mean of magnitude of three dimensional jerk signals for frequency of body acceleration 
 frequencyBodyGyroMagnitude.mean | Mean of magnitude of the frequency of three dimensional body gyroscope signals 
 frequencyBodyGyroJerkMagnitude.mean | Mean of magnitude of the frequency of three dimensional jerk signals for body gyroscope 
