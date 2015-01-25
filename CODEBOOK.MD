@@ -67,10 +67,10 @@ frequencyBodyAccelerationMagnitude.mean | Mean of magnitude of the frequency of 
 frequencyBodyAccelerationJerkMagnitude.mean | Mean of magnitude of three dimensional jerk signals for frequency of body acceleration 
 frequencyBodyGyroMagnitude.mean | Mean of magnitude of the frequency of three dimensional body gyroscope signals 
 frequencyBodyGyroJerkMagnitude.mean | Mean of magnitude of the frequency of three dimensional jerk signals for body gyroscope 
-angle.timeBodyAccelerationMean.gravity | 
-angle.timeBodyAccelerationJerkMean.gravityMean |  
-angle.timeBodyGyroMean.gravityMean | 
-angle.timeBodyGyroJerkMean.gravityMean | 
+angle.timeBodyAccelerationMean.gravity | Mean applied to the angle (see "features.txt")
+angle.timeBodyAccelerationJerkMean.gravityMean | Mean applied to the angle (see "features.txt")  
+angle.timeBodyGyroMean.gravityMean | Mean applied to the angle (see "features.txt")
+angle.timeBodyGyroJerkMean.gravityMean | Mean applied to the angle (see "features.txt")
 angle.X.gravityMean | Gravity mean of the angle, X axis
 angle.Y.gravityMean | Gravity mean of the angle, Y axis  
 angle.Z.gravityMean | Gravity mean of the angle, Z axis  
@@ -103,7 +103,7 @@ frequencyBodyAccelerationJerk.StandardDeviation.Z | Standard deviation of freque
 frequencyBodyGyro.StandardDeviation.X | Standard deviation of the body gyroscope signals, X axis 
 frequencyBodyGyro.StandardDeviation.Y | Standard deviation of the body gyroscope signals, Y axis 
 frequencyBodyGyro.StandardDeviation.Z | Standard deviation of the body gyroscope signals, Z axis 
-frequencyBodyAccelerationMagnitude.StandardDeviation | Standard deviation of magnitude of the frequency of body acceleration 
+frequencyBodyAccelerationMagnitude.StandardDeviation | Standard deviation of magnitude of the frequency of three dimensional body acceleration 
 frequencyBodyAccelerationJerkMagnitude.StandardDeviation | Standard deviation of magnitude of three dimensional jerk signals for frequency of body acceleration 
 frequencyBodyGyroMagnitude.StandardDeviation | Standard deviation of magnitude of the frequency of three dimensional body gyroscope signals 
 frequencyBodyGyroJerkMagnitude.StandardDeviation | Standard deviation of magnitude of the frequency of three dimensional jerk signals for body gyroscope
