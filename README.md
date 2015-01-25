@@ -16,5 +16,4 @@ Human Activity Recognition Using Smartphones Dataset, Version 1.0
 
 Reference: Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz.  Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine.  International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012  
 
-Project site: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones  
-Data download: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+<A HREF="http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones">Project site.</A>  <A HREF = "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip">Data download.</A>
