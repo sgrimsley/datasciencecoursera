@@ -2,7 +2,7 @@
 
 The results produced by the run_analysis() function are grouped means (by Activity and Subject) of features from "Human Activity Recognition Using Smartphones Dataset version 1.0" that contained a mean or standard deviation.  MeanFrequency features were excluded, because they're not a mean (but a component of obtaining a mean).
 
-Please see the original dataset, "features_info.txt", for description of their measurement techniques and transmutations.
+Please see the original dataset, "features_info.txt" and "README.txt", for description of their measurement techniques and transmutations.
 
 ### Modifed Feature Names
 Feature names were modified as follows: 
@@ -28,7 +28,7 @@ tBody | timeBody
 Variables containing a mean or standard deviation were extracted (not including MeanFreq), then the grouped mean calculated for each activity and subject.  The calculated group means are written to a txt file ("results.txt"), containing 180 rows (30 subjects * 6 activities) and 75 variables.  
 
 ### Variable Descriptions
-Variables, with the exception of Activity and Subject, are grouped means of the original feature data.
+Variables, with the exception of Activity and Subject, are grouped means of the original feature data.  The original features had been normalized and bounded within [-1,1]. (no units).
 
 Variable | Description 
 --- | --- 
